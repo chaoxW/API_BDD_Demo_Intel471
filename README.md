@@ -74,6 +74,7 @@ Process finished with exit code 0
 └──────────────────────────────────────────────────────────────────────────┘
 </pre></code>
 
+#### Project structure
 
     ├── src
     │   ├── test/java
