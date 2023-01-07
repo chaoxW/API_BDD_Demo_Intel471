@@ -57,7 +57,7 @@
 
 # 2. Automation tests folder structure
 - ## REST Assured, Cucumber, Java, Gradle to build the automation test framework
-- ## we can also evaluate Postman, katalon, Karate to build the automation test framework depends on the requirments from the product.
+- ## We can also evaluate Postman, katalon, Karate to build the automation test framework depends on the requirments from the product.
 
 #### Run `build.gradle` from IDE Java 
 #### Run test with `DemoRestAPITest.feature`
@@ -73,6 +73,8 @@
 Process finished with exit code 0
 └──────────────────────────────────────────────────────────────────────────┘
 </pre></code>
+
+<img width="1234" alt="image" src="https://user-images.githubusercontent.com/38011268/211156704-4da241dd-55b2-4aca-b102-085bce6b11ea.png">
 
 #### Project structure
 
