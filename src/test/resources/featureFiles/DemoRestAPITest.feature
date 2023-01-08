@@ -30,7 +30,7 @@ Feature: Dummy Rest API Functionality Scenarios
 
     Examples:
       | url               | responseCode |
-      | /api/v1/update/21 | 200          |
+      | /api/v1/update/1 | 200          |
 
   Scenario Outline: Dummy Rest Api DELETE Employees
     Given Delete Call to "<url>"
